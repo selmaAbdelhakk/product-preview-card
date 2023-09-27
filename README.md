@@ -30,6 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: ([https://your-solution-url.com](https://github.com/selmaAbdelhakk/product-preview-card/tree/master))
+- Live Site URL: ([https://your-live-site-url.com](https://selmaabdelhakk.github.io/product-preview-card/))
 
 
 ## My process
@@ -40,5 +41,4 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 
